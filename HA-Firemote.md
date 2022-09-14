@@ -6,7 +6,7 @@
 * [HACS](https://peyanski.com/how-to-install-home-assistant-community-store-hacs/)
 * [Card-Mod](https://github.com/thomasloven/lovelace-card-mod) (available from HACS)
 * A supported Amazon Fire Device
-  * Currently supported/tested devices are **Fire TV 4 Series** and **Fire Stick 4K** but others might work as well
+  * Currently supported/tested devices are [Fire TV 4 Series](https://www.amazon.com/dp/B08SWD2SCK) and [Fire Stick 4K](https://www.amazon.com/dp/B09GK44MZJ) but others might work as well
 
 ## How to use
 1. [Turn on ADB Debugging](https://www.youtube.com/watch?v=40iVXrTWcPU) on your Amazon device
