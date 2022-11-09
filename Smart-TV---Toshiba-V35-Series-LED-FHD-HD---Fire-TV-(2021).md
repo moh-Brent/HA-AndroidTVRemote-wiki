@@ -23,4 +23,4 @@ Not Preformed / Unavailable.  Do you own this device? Can you help us?
  * **Default Event Setting:** event0
  * **Other Working Event Settings:** Strong, event4 [@ShooterQ - Community Post Oct 2022](https://community.home-assistant.io/t/lovelace-firemote-card-remote-controls-for-amazon-fire-android-devices/471038/4)
  * **DPad Center Button:** sendevent /dev/input/event0 1 28 1 && /dev/input/event0 0 0 0 && /dev/input/event0 1 28 0 && /dev/input/event0 0 0 0
- * **Fast Forward Button:** sendevent /dev/input/event0 1 159 1 && sendevent /dev/input/event0 0 0 0 && sendevent /dev/input/event0 1 159 0 && sendevent /dev/input/event0 0 0 0'
+ * **Fast Forward Button:** sendevent /dev/input/event0 1 159 1 && sendevent /dev/input/event0 0 0 0 && sendevent /dev/input/event0 1 159 0 && sendevent /dev/input/event0 0 0 0
