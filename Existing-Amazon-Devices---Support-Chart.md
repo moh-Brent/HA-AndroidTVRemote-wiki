@@ -12,7 +12,7 @@ If your device is listed here, and is not yet officially supported by Firemote, 
 * Toshiba 4K Far-field UHD - Fire TV (2021)
 * Toshiba V35 Series LED FHD/HD - Fire TV (2021)
 * Fire TV Omni Series (2021)
-* Fire TV 4-Series (2021)
+* [Fire TV 4-Series (2021)](https://github.com/PRProd/HA-Firemote/wiki/Smart-TV---Fire-TV-4-Series-(2021))
 * Toshiba 4K UHD - Fire TV (2021)
 * AmazonBasics 4K - Fire TV (2020)
 * AmazonBasics HD/FHD - Fire TV (2020)
