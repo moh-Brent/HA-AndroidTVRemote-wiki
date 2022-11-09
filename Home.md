@@ -6,7 +6,7 @@
 ## Prerequisites
 * A functioning version of [Home Assistant](https://www.home-assistant.io/)
 * [HACS](https://peyanski.com/how-to-install-home-assistant-community-store-hacs/)
-* A supported Amazon Fire Device - ( [Which device do I own?](https://github.com/PRProd/HA-Firemote/wiki/Existing-Amazon-Devices) )
+* A supported Amazon Fire Device - ( [Which device do I own?](https://github.com/PRProd/HA-Firemote/wiki/Existing-Amazon-Devices---Support-Chart) )
   * [Fire TV (4 Series)](https://developer.amazon.com/docs/fire-tv/device-specifications-fire-tv-edition-smart-tv.html?v=4-series)
   * [Fire TV Cube (2nd Gen)](https://www.amazon.com/dp/B08XMDNVX6)
   * [Fire TV Stick 4K Max](https://developer.amazon.com/docs/fire-tv/device-specifications-fire-tv-streaming-media-player.html?v=ftvstick4kmax)
