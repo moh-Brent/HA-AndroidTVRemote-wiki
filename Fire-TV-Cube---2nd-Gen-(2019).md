@@ -15,7 +15,9 @@
 ***
 
 ## Device Interrogation
-Not Preformed / Unavailable.  Do you own this device? Can you help us?
+Not Preformed / Unavailable.
+
+Do you own this device? We'd love your help filling this information gap!  [Click here to contribute.](https://github.com/PRProd/HA-Firemote/wiki/How-Can-I-Help%3F#device-interrogation)
 
 ***
 
