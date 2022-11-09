@@ -1,4 +1,3 @@
-# Existing Amazon Devices
 Updated product list found at [https://developer.amazon.com/docs/fire-tv/device-specifications-comparison-table.html](https://developer.amazon.com/docs/fire-tv/device-specifications-comparison-table.html) - Wiki documentation last updated November 2022.
 
 If your device is listed here, and is not yet officially supported by Firemote, we'd love to hear from you!  A few minutes of your time will allow for proper support of your device, and also help everyone else who has the same thing!
