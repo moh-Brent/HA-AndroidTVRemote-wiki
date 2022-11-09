@@ -7,6 +7,11 @@
 
 ***
 
+## Outstanding Issues
+None
+
+***
+
 ## Device Interrogation
 Not Preformed / Unavailable.  Do you own this device? Can you help us?
 
