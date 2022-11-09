@@ -1,9 +1,9 @@
 ## Current Support Overview
-| Check              | Status | Last Update                                                          | Related Info |
-| ------------------ |  ----  |    ----------------------------------------------------------------  | ------------ |
-| Firemote Support   | Yes    | [v1.1.2](https://github.com/PRProd/HA-Firemote/releases/tag/v1.1.2)  |              |
-| Author Verified    | Yes    | Sept 2022                                                            |  @PRProd     |
-| Community Verified | No     |                                                                      |              |
+| Check              | Status | Last Update                                                                    | Related Info |
+| ------------------ |  ----  | -----------------------------------------------------------------------------  | ------------ |
+| Firemote Support   | Yes    | Sept 2022 [v1.1.2](https://github.com/PRProd/HA-Firemote/releases/tag/v1.1.2)  |              |
+| Author Verified    | Yes    | Sept 2022                                                                      | @PRProd      |
+| Community Verified | No     |                                                                                |              |
 
 
 ## Device Interrogation
@@ -15,6 +15,13 @@
 | kcmouse                    | /dev/input/event3 | a mouse                     |
 | amznkeyboard               | /dev/input/event4 | an amazon keyboard          |
 | Amazon Fire TV Remote      | /dev/input/event5 | A physical remote control that appears only when a remote is currently attached/associated with this device |
+
+
+## Misc Device Details
+ * **Product Page:** [https://developer.amazon.com/docs/fire-tv/device-specifications-fire-tv-edition-smart-tv.html?v=4-series](https://developer.amazon.com/docs/fire-tv/device-specifications-fire-tv-edition-smart-tv.html?v=4-series)
+ * **Build Model:** AFTTI43
+ * **HDMI Inputs:** Yes. (4)
+
 
 ## Firemote device specific settings and button overrides
  * **Default Event Setting:** event0
