@@ -1,4 +1,6 @@
-Updated product list found at [https://developer.amazon.com/docs/fire-tv/device-specifications-comparison-table.html](https://developer.amazon.com/docs/fire-tv/device-specifications-comparison-table.html) - Wiki documentation last updated November 2022.
+Wiki documentation last updated November 2022.
+
+Updated product list found at [https://developer.amazon.com/docs/fire-tv/device-specifications-comparison-table.html](https://developer.amazon.com/docs/fire-tv/device-specifications-comparison-table.html)
 
 If your device is listed here, and is not yet officially supported by Firemote, we'd love to hear from you!  A few minutes of your time will allow for proper support of your device, and also help everyone else who has the same thing!
 
@@ -35,7 +37,7 @@ If your device is listed here, and is not yet officially supported by Firemote, 
 
 
 ## Fire TV Streaming Media Player
-* Fire TV Stick 4K Max - 1st Gen (2021) - **Supported**
+* [Fire TV Stick 4K Max - 1st Gen (2021)](https://github.com/PRProd/HA-Firemote/wiki/Fire-TV-Stick-4K-Max---1st-Gen-(2021)) - **Supported**
 * Fire TV Stick - 3rd Gen (2020)
 * Fire TV Stick Lite - 1st Gen (2020) - **Supported**
 * Fire TV Stick 4K - 1st Gen (2018)
