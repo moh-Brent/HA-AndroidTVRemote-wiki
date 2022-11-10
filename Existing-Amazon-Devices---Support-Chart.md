@@ -2,7 +2,7 @@ Wiki documentation last updated November 2022.
 
 Updated product list found at [https://developer.amazon.com/docs/fire-tv/device-specifications-comparison-table.html](https://developer.amazon.com/docs/fire-tv/device-specifications-comparison-table.html)
 
-If your device is listed here, and is not yet officially supported by Firemote, we'd love to hear from you!  A few minutes of your time will allow for proper support of your device, and also help everyone else who has the same thing!
+If your device is listed here, and is not yet officially supported by Firemote, we'd love to hear from you!  A few minutes of your time will allow for proper support of your device, and also help everyone else who has the same thing!  Click on the [Issues](../../issues) button on the top of this page, click 'New Issue' and then click the "Get Started" button next to the "Device Support Request" option.  Your help is VERY appreciated!
 
 ## Smart TV
 * Fire TV Omni QLED Series (2022)
