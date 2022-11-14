@@ -60,4 +60,39 @@ Options:
 | app_launch_1<br>app_launch_2<br>app_launch_3<br>app_launch_4<br>app_launch_5<br>app_launch_6 | string | no | prime-video<br>netflix<br>disney-plus<br>hulu<br>jellyfin<br>hbo-max<br>showtime<br>starz<br>youtube<br>pandora<br>plex<br>tennis-channel<br>amc-plus<br>apple-tv<br>paramount-plus<br>hdmi_1<br>hdmi_2<br>hdmi_3<br>hdmi_4 | Quick launch apps customization |
 |hdmi_1<br>hdmi_2<br>hdmi_3</br>hdmi_4| string | no | Personalized name for this HDMI input | The name entered here will appear on the button |
 | scale       | integer| no       | Any positive number                                           | Change the size of this card by percentage.  Default size is 100 |
+<br>
+<br>
+<br>
 
+## FAQ
+###  Why won't my volume, mute, and/or power butons work?
+In many cases, your Amazon remote control actually sends commands for volume, mute, and power to your TV or receiver using the IR emitter on the front of the physical remote control.  Since this is the case, these types of commands cannot be emulated through the same means that Firemote sends other commands.
+<br>
+
+[Issue #6](../../issues/6) is currently open to help eventually solve this issue by allowing button presses to be overridden using scripts or simple HA commands.
+<br>
+<br>
+
+### Why don't any of the buttons on the Firemote work at all? ###
+ * If your Firemote used to work, and it suddenly stopped without making any configuration changes, it could be that all you need to do is press one button (any button) on your physical Fire TV device.  After doing that step, try your Firemote again.
+ * Check your card configuration:
+   * Is the correct Android device selected?
+   * Is the correct Fire TV Device type selected?
+   * Is Compatibility Mode set to Default?
+ * If the Default Compatibility Mode is not working on your device, and you've checked every other step, slowly choose "event0", "event1", etc. and test your remote buttons under each mode.  One of these will work.
+<br>
+
+### Why isn't my Fire Device supported?
+There are currently over 40 different kinds of Amazon Fire devices, so it will take a while for every device to gain properly tested support.  If Firemote doesn't support your device yet yet, you can still use Firemote!  Simply choose a supported device that is similar to the one that you have (preferrably a remote that looks the same as your physical remote), then you can test different compatability modes to find out which one works the best.<br>
+
+For extra credit, you could submit a request to have your device added!  It's simple!  Click on the [Issues](../../issues) button on the top of this page, click 'New Issue' and then click the "Get Started" button next to the "Device Support Request" option.  Your help is VERY appreciated!
+<br>
+<br>
+
+### I want to have a shortcut button for an app I use frequently, but it's not on the list.  Can it be added?
+Absolutely!  Simply ask!  Here's how: Click on the [Issues](../../issues) button on the top of this page, click 'New Issue' and then click the "Get Started" button next to the "App Shortcut Request" option.  Your request is important to you, and likely important for others as well!  As long as the app is easily downloaded through traditional Amazon app downloading channels (not sideloaded), your request will be granted ASAP.
+<br>
+<br>
+
+### How do I report a problem, make a request, or just talk about stuff?
+Click on the [Issues](../../issues) button on the top of this page, click 'New Issue' and then select the appropriate category for your needs.  You're also welcome to join or begin a new [discussion ](../../discussions) if that seems more suitable for your needs.
