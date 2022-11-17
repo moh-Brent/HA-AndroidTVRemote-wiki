@@ -1,19 +1,26 @@
 # HA Firemote - Wiki Home
+
 | Fire TV | Fire TV Cube,<br>Fire TV Stick 4K Max | Fire TV Stick 4K | Fire TV Stick Lite | Fire Stick (1st Gen) |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | ![Fire TV 4 Series Remote](https://github.com/PRProd/HA-Firemote/raw/main/Example%20Images/fireTVRemote.png) | ![Fire TV Cube (Gen 2) Remote](https://github.com/PRProd/HA-Firemote/raw/main/Example%20Images/fireTVCube2ndGen.png) | ![Fire TV Stick 4K](https://github.com/PRProd/HA-Firemote/raw/main/Example%20Images/fireTVStick4K.png) | ![Fire TV Stick Lite](https://github.com/PRProd/HA-Firemote/raw/main/Example%20Images/fireTVStickLite.png) | ![Fire Stick (1st Gen)](https://github.com/PRProd/HA-Firemote/raw/main/Example%20Images/fireStick1stGen.png) |
+<br>
+<br>
+<br>
 
 ## Prerequisites
 * A functioning version of [Home Assistant](https://www.home-assistant.io/)
 * [HACS](https://peyanski.com/how-to-install-home-assistant-community-store-hacs/)
-* A supported Amazon Fire Device - ( [Which device do I own?](https://github.com/PRProd/HA-Firemote/wiki/Existing-Amazon-Devices---Support-Chart) )
-  * [Fire TV (4 Series)](https://developer.amazon.com/docs/fire-tv/device-specifications-fire-tv-edition-smart-tv.html?v=4-series)
-  * [Fire TV Cube (2nd Gen)](https://www.amazon.com/dp/B08XMDNVX6)
-  * [Fire TV Stick 4K Max](https://developer.amazon.com/docs/fire-tv/device-specifications-fire-tv-streaming-media-player.html?v=ftvstick4kmax)
-  * [Fire TV Stick 4K](https://developer.amazon.com/docs/fire-tv/device-specifications-fire-tv-streaming-media-player.html?v=ftvstick4k)
-  * [Fire TV Stick Lite](https://developer.amazon.com/docs/fire-tv/device-specifications-fire-tv-streaming-media-player.html?v=ftvsticklite)
-  * [Fire Stick (1st Gen)](https://developer.amazon.com/docs/fire-tv/device-specifications-fire-tv-streaming-media-player.html?v=ftvstickgen1) 
-  * Others might work as well with limited functionality
+* A supported Amazon Fire Device Type
+  * Amazon Fire Smart TV
+  * Amazon Fire Stick
+  * Amazon Fire Cube
+  * Other Android based non-fire devices might work as well, but with limited (and unsupported) functionality
+
+[Which devices are supported?](../../wiki/Existing-Amazon-Devices---Support-Chart)
+<br>[Which device do I own?](https://developer.amazon.com/docs/fire-tv/device-specifications.html)
+<br>
+<br>
+<br>
 
 ## Download and Setup
 1. [Turn on ADB Debugging](https://www.youtube.com/watch?v=40iVXrTWcPU) on your Amazon device
@@ -22,7 +29,8 @@
 1. In the lower right hand corner, click the "+ EXPLORE & DOWNLOAD REPOSITORIES" button
 1. Search for, and click on "Firemote Card", then click the "DOWNLOAD" button in the lower right hand corner
 1. You will be prompted to reload your browser.  Click the RELOAD button to continue
-
+<br>
+<br>
 
 ## How to use
 1. On any dashboard, click the +ADD CARD button
@@ -33,7 +41,9 @@
 
 
 ![Dashboard](https://github.com/PRProd/HA-Firemote/raw/main/Example%20Images/dashboard.jpg)
-
+<br>
+<br>
+<br>
 
 ## YAML card setup options
 Example:
@@ -48,6 +58,9 @@ app_launch_3: hdmi_1
 app_launch_4: youtube
 hdmi_1: Cable
 scale: 85
+button_overrides:
+  mute-button:
+    script: receiver_mute_script
 ```
 
 Options:
@@ -57,9 +70,47 @@ Options:
 | entity      | string | yes      | any valid entity created in the android tv integration        | entity_id                              |
 | device_type | string | yes      | fire_tv_4_series <br> fire_tv_cube_second_gen <br> fire_tv_stick_4k_max <br> fire_stick_4k <br> fire_tv_stick_lite <br> fire_stick_first_gen | The type of device you are controlling |
 | compatibility_mode | string | no | default <br> strong <br> event0 <br> event1 <br> event2 <br> event3 <br> event4 <br> event5 <br> event6 <br> event7 <br> event8 <br> | Adjust this value only if your buttons are completely unresponsive |
-| app_launch_1<br>app_launch_2<br>app_launch_3<br>app_launch_4<br>app_launch_5<br>app_launch_6 | string | no | prime-video<br>netflix<br>disney-plus<br>hulu<br>jellyfin<br>hbo-max<br>showtime<br>starz<br>youtube<br>pandora<br>plex<br>tennis-channel<br>amc-plus<br>apple-tv<br>paramount-plus<br>hdmi_1<br>hdmi_2<br>hdmi_3<br>hdmi_4 | Quick launch apps customization |
+| app_launch_1<br>app_launch_2<br>app_launch_3<br>app_launch_4<br>app_launch_5<br>app_launch_6 | string | no | amc-plus<br>apple-tv<br>bbc-iplayer<br>bell-fibe-tv<br>crave-tv<br>disney-plus<br>hbo-max<br>hulu<br>jellyfin<br>netflix<br>pandora<br>paramount-plus<br>plex<br>prime-video<br>showtime<br>starz<br>tennis-channel<br>twitch<br>youtube<br>hdmi_1<br>hdmi_2<br>hdmi_3<br>hdmi_4 | Quick launch apps customization |
 |hdmi_1<br>hdmi_2<br>hdmi_3</br>hdmi_4| string | no | Personalized name for this HDMI input | The name entered here will appear on the button |
 | scale       | integer| no       | Any positive number                                           | Change the size of this card by percentage.  Default size is 100 |
+| button_overrides | complex | no | read details in [README.md](https://github.com/PRProd/HA-Firemote/edit/main/README.md#button-overrides) file | read details in [README.md](https://github.com/PRProd/HA-Firemote/edit/main/README.md#button-overrides) file |
+<br>
+<br>
+<br>
+
+## Button Overrides
+Firemote buttons can be overridden by Home Assistant scripts through a simple YAML configuration.  
+
+Ex:
+```yaml
+button_overrides:
+  mute-button:
+    script: receiver_mute_script
+  volume-down-button:
+    script: receiver_volume_down_script
+```
+Valid button names are as follows:
+ - power-button
+ - keyboard-button
+ - up-button
+ - left-button
+ - center-button
+ - right-button
+ - down-button
+ - back-button
+ - home-button
+ - hamburger-button
+ - rewind-button
+ - playpause-button
+ - fastforward-button
+ - volume-up-button
+ - channel-up-button
+ - volume-down-button
+ - tv-button
+ - channel-down-button
+ - mute-button
+ - settings-button
+ - app-switch-button
 <br>
 <br>
 <br>
@@ -69,7 +120,7 @@ Options:
 In many cases, your Amazon remote control actually sends commands for volume, mute, and power to your TV or receiver using the IR emitter on the front of the physical remote control.  Since this is the case, these types of commands cannot be emulated through the same means that Firemote sends other commands.
 <br>
 
-[Issue #6](../../issues/6) is currently open to help eventually solve this issue by allowing button presses to be overridden using scripts or simple HA commands.
+In these cases, you still might be able to control your devices (TVs, Receivers, etc.) by using [Button Overrides](https://github.com/PRProd/HA-Firemote#button-overrides).  If you are able to control your non-fire devices through Home Assistant, you can write a HA script and attach that script to a button on your Firemote.
 <br>
 <br>
 
