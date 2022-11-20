@@ -14,7 +14,7 @@
   * Amazon Fire Cube
   * Other Android based non-fire devices might work as well, but with limited (and unsupported) functionality
 
-[Which devices are supported?](../../wiki/Existing-Amazon-Devices---Support-Chart)
+[Which devices are supported?](https://github.com/PRProd/HA-Firemote/wiki/Existing-Amazon-Devices---Support-Chart)
 <br>[Which device do I own?](https://developer.amazon.com/docs/fire-tv/device-specifications.html)
 <br>
 <br>
