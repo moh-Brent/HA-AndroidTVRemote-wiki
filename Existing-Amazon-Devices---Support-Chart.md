@@ -12,7 +12,7 @@ If your device is listed here, and is not yet officially supported by Firemote, 
 * JVC 4K - Fire TV with Freeview Play (2021)
 * ok 4K - Fire TV (2021)
 * Toshiba 4K Far-field UHD - Fire TV (2021)
-* [Toshiba V35 Series LED FHD/HD - Fire TV (2021)](https://github.com/PRProd/HA-Firemote/wiki/Smart-TV---Toshiba-V35-Series-LED-FHD-HD---Fire-TV-(2021)) - **Support Pending**
+* [Toshiba V35 Series LED FHD/HD - Fire TV (2021)](https://github.com/PRProd/HA-Firemote/wiki/Smart-TV---Toshiba-V35-Series-LED-FHD-HD---Fire-TV-(2021)) - **Supported**
 * Fire TV Omni Series (2021)
 * [Fire TV 4-Series (2021)](https://github.com/PRProd/HA-Firemote/wiki/Smart-TV---Fire-TV-4-Series-(2021)) - **Supported**
 * Toshiba 4K UHD - Fire TV (2021)
@@ -40,7 +40,7 @@ If your device is listed here, and is not yet officially supported by Firemote, 
 * [Fire TV Stick 4K Max - 1st Gen (2021)](https://github.com/PRProd/HA-Firemote/wiki/Fire-TV-Stick-4K-Max---1st-Gen-(2021)) - **Supported**
 * Fire TV Stick - 3rd Gen (2020)
 * [Fire TV Stick Lite - 1st Gen (2020)](https://github.com/PRProd/HA-Firemote/wiki/Fire-TV-Stick-Lite---1st-Gen-(2020)) - **Supported**
-* Fire TV Stick 4K - 1st Gen (2018) - **Supported**
+* [Fire TV Stick 4K - 1st Gen (2018)](https://github.com/PRProd/HA-Firemote/wiki/Fire-TV-Stick-4K---1st-Gen-(2018)) - **Supported**
 * Fire TV Stick - 2nd Gen (2016-2019)
 * Fire TV Stick - Basic Edition (2017)
 * Fire TV Stick - 1st Gen (2014)
