@@ -1,7 +1,7 @@
 ## Current Support Overview
 | Check              | Status | Last Update                                                                    | Related Info |
 | ------------------ | ------ | -----------------------------------------------------------------------------  | ------------ |
-| Firemote Support   | Yes    | [Nov 16 2022 v1.8.0](https://github.com/PRProd/HA-Firemote/tree/v1.8.0)        |              |
+| Firemote Support   | Yes    | Nov 16 2022 [v1.8.0](https://github.com/PRProd/HA-Firemote/tree/v1.8.0)        |              |
 | Author Verified    | No     |                                                                                |              |
 | Community Verified | Yes    | [https://community.home-assistant.io/t/lovelace-firemote-card-remote-controls-for-amazon-fire-android-devices/471038/4](https://community.home-assistant.io/t/lovelace-firemote-card-remote-controls-for-amazon-fire-android-devices/471038/4)                                                                                                     | [@ShooterQ](https://community.home-assistant.io/u/ShooterQ) |
 
