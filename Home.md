@@ -21,7 +21,7 @@
 <br>
 
 ## Download and Setup
-1. [Turn on ADB Debugging](https://www.youtube.com/watch?v=40iVXrTWcPU) on your Amazon device
+1. [Turn on ADB Debugging](https://youtu.be/40iVXrTWcPU?t=106) on your Amazon device
 1. Set up the Home Assistant [Android TV Integration](https://www.home-assistant.io/integrations/androidtv/) and connect it to your Amazon Fire Device
 1. Click on HACS and select Frontend
 1. In the lower right hand corner, click the "+ EXPLORE & DOWNLOAD REPOSITORIES" button
