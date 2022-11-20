@@ -38,7 +38,7 @@ If your device is listed here, and is not yet officially supported by Firemote, 
 
 ## Fire TV Streaming Media Player
 * [Fire TV Stick 4K Max - 1st Gen (2021)](https://github.com/PRProd/HA-Firemote/wiki/Fire-TV-Stick-4K-Max---1st-Gen-(2021)) - **Supported**
-* Fire TV Stick - 3rd Gen (2020) - **Coming Soon**
+* [Fire TV Stick - 3rd Gen (2020)](https://github.com/PRProd/HA-Firemote/wiki/Fire-TV-Stick---3rd-Gen-(2020)) - **Supported**
 * [Fire TV Stick Lite - 1st Gen (2020)](https://github.com/PRProd/HA-Firemote/wiki/Fire-TV-Stick-Lite---1st-Gen-(2020)) - **Supported**
 * [Fire TV Stick 4K - 1st Gen (2018)](https://github.com/PRProd/HA-Firemote/wiki/Fire-TV-Stick-4K---1st-Gen-(2018)) - **Supported**
 * Fire TV Stick - 2nd Gen (2016-2019)
