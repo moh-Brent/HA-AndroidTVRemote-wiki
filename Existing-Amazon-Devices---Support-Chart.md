@@ -7,7 +7,7 @@ If your device is listed here, and is not yet officially supported by Firemote, 
 ## Smart TV
 * Fire TV Omni QLED Series (2022)
 * Xiaomi F2 4K - Fire TV (2022)
-* Hisense U6 4K UHD - Fire TV (2022)
+* Hisense U6 4K UHD - Fire TV (2022) - **Coming Soon**
 * Funai 4K - Fire TV (2022)
 * JVC 4K - Fire TV with Freeview Play (2021)
 * ok 4K - Fire TV (2021)
@@ -38,7 +38,7 @@ If your device is listed here, and is not yet officially supported by Firemote, 
 
 ## Fire TV Streaming Media Player
 * [Fire TV Stick 4K Max - 1st Gen (2021)](https://github.com/PRProd/HA-Firemote/wiki/Fire-TV-Stick-4K-Max---1st-Gen-(2021)) - **Supported**
-* Fire TV Stick - 3rd Gen (2020)
+* Fire TV Stick - 3rd Gen (2020) - **Coming Soon**
 * [Fire TV Stick Lite - 1st Gen (2020)](https://github.com/PRProd/HA-Firemote/wiki/Fire-TV-Stick-Lite---1st-Gen-(2020)) - **Supported**
 * [Fire TV Stick 4K - 1st Gen (2018)](https://github.com/PRProd/HA-Firemote/wiki/Fire-TV-Stick-4K---1st-Gen-(2018)) - **Supported**
 * Fire TV Stick - 2nd Gen (2016-2019)
@@ -50,6 +50,6 @@ If your device is listed here, and is not yet officially supported by Firemote, 
 
 
 ## Fire TV Cube
-* Fire TV Cube - 3rd Gen (2022)
+* Fire TV Cube - 3rd Gen (2022) - **Coming Soon**
 * [Fire TV Cube - 2nd Gen (2019)](https://github.com/PRProd/HA-Firemote/wiki/Fire-TV-Cube---2nd-Gen-(2019)) - **Supported**
 * Fire TV Cube - 1st Gen (2018)
