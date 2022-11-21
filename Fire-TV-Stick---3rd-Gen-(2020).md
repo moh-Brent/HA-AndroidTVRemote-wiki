@@ -19,6 +19,7 @@
 ***
 
 ## Misc Device Details
+![Fire TV Stick 3rd Gen 2020](https://m.media-amazon.com/images/G/01/mobile-apps/dex/firetvstickgen3thumb.jpg)
  * **Product Page:** [https://developer.amazon.com/docs/fire-tv/device-specifications-fire-tv-streaming-media-player.html?v=ftvstickgen3](https://developer.amazon.com/docs/fire-tv/device-specifications-fire-tv-streaming-media-player.html?v=ftvstickgen3)
  * **Build Model:** AFTSSS
  * **HDMI Inputs:** No
