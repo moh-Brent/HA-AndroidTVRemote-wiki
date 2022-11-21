@@ -19,6 +19,7 @@
 ***
 
 ## Misc Device Details
+![Fire TV Stick 4K 1st Gen 2018](https://m.media-amazon.com/images/G/01/mobile-apps/dex/firetv/firetv4ksingleimage._TTH_.png)
  * **Product Page:** [https://developer.amazon.com/docs/fire-tv/device-specifications-fire-tv-streaming-media-player.html?v=ftvstick4k](https://developer.amazon.com/docs/fire-tv/device-specifications-fire-tv-streaming-media-player.html?v=ftvstick4k)
  * **Build Model:** AFTMM
  * **HDMI Inputs:** No
