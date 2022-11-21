@@ -43,7 +43,7 @@ If your device is listed here, and is not yet officially supported by Firemote, 
 * [Fire TV Stick 4K - 1st Gen (2018)](https://github.com/PRProd/HA-Firemote/wiki/Fire-TV-Stick-4K---1st-Gen-(2018)) - **Supported**
 * Fire TV Stick - 2nd Gen (2016-2019)
 * Fire TV Stick - Basic Edition (2017)
-* [Fire TV Stick - 1st Gen (2014)](https://github.com/PRProd/HA-Firemote/wiki/Fire-TV---1st-Gen-(2014)) - **Supported**
+* [Fire TV Stick - 1st Gen (2014)](https://github.com/PRProd/HA-Firemote/wiki/Fire-TV-Stick-1st-Gen-(2014)) - **Supported**
 * Fire TV - 3rd Gen (2017)
 * Fire TV - 2nd Gen (2015)
 * Fire TV - 1st Gen (2014)
