@@ -18,6 +18,7 @@
 ***
 
 ## Misc Device Details
+![Fire TV Stick 1st Gen](https://m.media-amazon.com/images/G/01/mobile-apps/dex/firetv/firetvstick-single._TTH_.png)
  * **Product Page:** [https://developer.amazon.com/docs/fire-tv/device-specifications-fire-tv-streaming-media-player.html?v=ftvstickgen1](https://developer.amazon.com/docs/fire-tv/device-specifications-fire-tv-streaming-media-player.html?v=ftvstickgen1)
  * **Build Model:** AFTM
  * **HDMI Inputs:** No
