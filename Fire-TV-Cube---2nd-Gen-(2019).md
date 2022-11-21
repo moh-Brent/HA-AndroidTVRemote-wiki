@@ -22,6 +22,7 @@ Do you own this device? We'd love your help filling this information gap!  [Clic
 ***
 
 ## Misc Device Details
+![Fire TV Cube 2nd Gen 2019](https://m.media-amazon.com/images/G/01/mobile-apps/dex/firetv/firetvcube-single._TTH_.png)
  * **Product Page:** [https://developer.amazon.com/docs/fire-tv/device-specifications-fire-tv-cube.html?v=ftvcubegen2](https://developer.amazon.com/docs/fire-tv/device-specifications-fire-tv-cube.html?v=ftvcubegen2)
  * **Build Model:** AFTR
  * **HDMI Inputs:** No
