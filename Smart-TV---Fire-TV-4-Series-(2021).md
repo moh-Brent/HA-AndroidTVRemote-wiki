@@ -26,6 +26,7 @@ None
 ***
 
 ## Misc Device Details
+![Fire Smart TV 4 Series 2021](https://m.media-amazon.com/images/G/01/mobile-apps/dex/firetv/fireTV_4series.png)
  * **Product Page:** [https://developer.amazon.com/docs/fire-tv/device-specifications-fire-tv-edition-smart-tv.html?v=4-series](https://developer.amazon.com/docs/fire-tv/device-specifications-fire-tv-edition-smart-tv.html?v=4-series)
  * **Build Model:** AFTTI43
  * **HDMI Inputs:** Yes. (4)
