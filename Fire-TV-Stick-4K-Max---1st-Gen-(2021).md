@@ -20,6 +20,7 @@
 ***
 
 ## Misc Device Details
+![Fire TV Stick 4K Max 1st Gen 2021](https://m.media-amazon.com/images/G/01/mobile-apps/dex/firetv/fireTV_fireTVStick4.png)
  * **Product Page:** [https://developer.amazon.com/docs/fire-tv/device-specifications-fire-tv-streaming-media-player.html?v=ftvstick4kmax](https://developer.amazon.com/docs/fire-tv/device-specifications-fire-tv-streaming-media-player.html?v=ftvstick4kmax)
  * **Build Model:** AFTKA
  * **HDMI Inputs:** No
