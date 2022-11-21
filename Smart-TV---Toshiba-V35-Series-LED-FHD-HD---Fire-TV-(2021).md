@@ -20,6 +20,7 @@ Do you own this device? We'd love your help filling this information gap!  [Clic
 ***
 
 ## Misc Device Details
+![Smart TV - Toshiba V35 Series 2021](https://m.media-amazon.com/images/G/01/mobile-apps/dex/firetv/ftvedition_toshibav35.jpg)
  * **Product Page:** [https://developer.amazon.com/docs/fire-tv/device-specifications-fire-tv-edition-smart-tv.html?v=ftvedition_toshibav35](https://developer.amazon.com/docs/fire-tv/device-specifications-fire-tv-edition-smart-tv.html?v=ftvedition_toshibav35)
  * **Build Model:** AFTHA002
  * **HDMI Inputs:** No
