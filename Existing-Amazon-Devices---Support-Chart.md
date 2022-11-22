@@ -50,6 +50,6 @@ If your device is listed here, and is not yet officially supported by Firemote, 
 
 
 ## Fire TV Cube
-* Fire TV Cube - 3rd Gen (2022) - **Coming Soon**
+* [Fire TV Cube - 3rd Gen (2022)](https://github.com/PRProd/HA-Firemote/wiki/Fire-TV-Cube---3rd-Gen-(2022)) - **Coming Soon**
 * [Fire TV Cube - 2nd Gen (2019)](https://github.com/PRProd/HA-Firemote/wiki/Fire-TV-Cube---2nd-Gen-(2019)) - **Supported**
 * Fire TV Cube - 1st Gen (2018)
