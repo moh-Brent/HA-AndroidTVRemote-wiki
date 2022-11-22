@@ -27,6 +27,7 @@
 | amazon_touch               | /dev/input/event10 |                             |
 | kcmouse                    | /dev/input/event11 | mouse                       |
 | WOW_INPUT_DEVICE           | /dev/input/event12 |                             |
+| Amazon Fire TV Remote      | /dev/input/event13 |                             |
 
 ***
 
