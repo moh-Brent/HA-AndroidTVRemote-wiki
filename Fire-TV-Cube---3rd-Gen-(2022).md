@@ -41,4 +41,6 @@
 
 ## Firemote device specific settings and button overrides
  * **Default Event Setting:** event3
- * **Settings Button** SETTINGS
+ * **Settings Button:** SETTINGS
+ * **TV Button:** adb shell input keyevent 297
+ * **App Switch Button:** adb shell input keyevent 304
