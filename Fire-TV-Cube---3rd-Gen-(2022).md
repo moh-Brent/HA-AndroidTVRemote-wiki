@@ -46,3 +46,4 @@
  * **App Switch Button:** adb shell input keyevent 304
  * **Power Button:** sendevent /dev/input/{event setting} 1 116 1 && sendevent /dev/input/{event setting} 0 0 0 && sendevent /dev/input/{event setting} 1 116 0 && sendevent /dev/input/{event setting} 0 0 0 && sendevent /dev/input/event2 1 9 1 && sendevent /dev/input/event2 0 0 0 && sendevent /dev/input/event2 1 9 0 && sendevent /dev/input/event2 0 0 0
    * event2 is hard coded into this custom power command since the cube has an IR blaster that also sends a power command to configured devices
+ * **Switch to HDMI:** adb shell am start -n com.amazon.tv.inputpreference.service/com.amazon.tv.inputpreference.player.InputChooserActivity
