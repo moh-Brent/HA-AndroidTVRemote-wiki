@@ -1,9 +1,9 @@
 ## Current Support Overview
-| Check              | Status        | Last Update                                                                    | Related Info |
-| ------------------ |  -----------  | -----------------------------------------------------------------------------  | ------------ |
-| Firemote Support   | Pending       | In progress Nov 23rd 2022                                                      |              |
-| Author Verified    | No            |                                                                                |              |
-| Community Verified | No            |                                                                                |              |
+| Check              | Status   | Last Update                                                                      | Related Info |
+| ------------------ |  ------  | -------------------------------------------------------------------------------- | ------------ |
+| Firemote Support   | Yes      | Nov 23 2022 - [v1.9.0](https://github.com/PRProd/HA-Firemote/releases/tag/1.9.0) | @PRProd      |
+| Author Verified    | Yes      | Nov 23 2022 - [v1.9.0](https://github.com/PRProd/HA-Firemote/releases/tag/1.9.0) | @PRProd      |
+| Community Verified |          |                                                                                  |              |
 
 ***
 
