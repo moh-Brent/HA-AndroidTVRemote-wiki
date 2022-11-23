@@ -40,5 +40,5 @@
 ***
 
 ## Firemote device specific settings and button overrides
- * **Default Event Setting:** (undecided)
-
+ * **Default Event Setting:** event3
+ * **Settings Button** SETTINGS
