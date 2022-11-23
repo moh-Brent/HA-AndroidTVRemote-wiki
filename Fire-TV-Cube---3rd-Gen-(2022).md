@@ -1,9 +1,9 @@
 ## Current Support Overview
 | Check              | Status        | Last Update                                                                    | Related Info |
 | ------------------ |  -----------  | -----------------------------------------------------------------------------  | ------------ |
-| Firemote Support   | Pending       |                                                                                |              |
+| Firemote Support   | Pending       | In progress Nov 22nd 2022                                                      |              |
 | Author Verified    | No            |                                                                                |              |
-| Community Verified | Yes           |                                                                                |              |
+| Community Verified | No            |                                                                                |              |
 
 ***
 
