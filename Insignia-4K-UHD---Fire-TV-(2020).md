@@ -3,7 +3,7 @@
 | ------------------ |  ----   | -----------------------------------------------------------------------------  | ------------ |
 | Firemote Support   | Pending |                                                                                |              |
 | Author Verified    |         |                                                                                |              |
-| Community Verified |         |                                                                                |              |
+| Community Verified |         |                                                                                | [#13 @clinds34](https://github.com/PRProd/HA-Firemote/issues/13#issuecomment-1326819116)             |
 
 ***
 
