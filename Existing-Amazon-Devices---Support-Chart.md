@@ -7,7 +7,7 @@ If your device is listed here, and is not yet officially supported by Firemote, 
 ## Smart TV
 * Fire TV Omni QLED Series (2022)
 * Xiaomi F2 4K - Fire TV (2022)
-* Hisense U6 4K UHD - Fire TV (2022) - **Coming Soon**
+* Hisense U6 4K UHD - Fire TV (2022)
 * Funai 4K - Fire TV (2022)
 * JVC 4K - Fire TV with Freeview Play (2021)
 * ok 4K - Fire TV (2021)
@@ -23,7 +23,7 @@ If your device is listed here, and is not yet officially supported by Firemote, 
 * Onida HD/FHD - Fire TV (2020) [Available in two sizes]
 * ok 4K - Fire TV (2020)
 * Toshiba 4K UHD - Fire TV (2020)
-* Insignia 4K UHD - Fire TV (2020)
+* [Insignia 4K UHD - Fire TV (2020)](https://github.com/PRProd/HA-Firemote/wiki/Insignia-4K-UHD---Fire-TV-%282020%29) - **Coming Soon**
 * Toshiba HD - Fire TV (2018-2020)
 * Insignia HD - Fire TV (2018-2020)
 * Toshiba 4K - Fire TV (2018-2019)
